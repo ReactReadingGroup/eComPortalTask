@@ -1,0 +1,13 @@
+.card {
+    margin: 30px !important;
+    background-color: mintcream;
+    text-align: center;
+}
+
+.main {
+    margin-left: 40px !important;
+}
+
+.cardImg {
+    margin: 5px !important;
+}
